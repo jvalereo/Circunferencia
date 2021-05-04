@@ -10,14 +10,13 @@
 
 # Area da Circunferencia
 
-
 <a href="#">
 <img align="center"  alt="jonas-Dev" height ="70" width ="160" src ="https://user-images.githubusercontent.com/25933386/116831049-87107400-ab83-11eb-947b-0a94a3e89f04.png" style="max-width: 100%;"></img>
 </a>
 
 # Sobre o Projeto
 
-- Programa que Calcula a media ponderada do aluno, insere as notas de portugues, matemática e ciência, operações, adição,multiplicação, divisão e execulta o resultado na tela.
+- Programa que Calcula a area da circunferência, insere o número do raio, pi, operações, potência , multiplicação e execulta o resultado na tela.
 - Outros fatores, você também pode  fazer testes aleatorio, usando os buttons, Executa, Limpar, Sair, nesse projeto.
 - Projeto foi implemetado no  Windows Forms.
 - IDE Visual Studio
